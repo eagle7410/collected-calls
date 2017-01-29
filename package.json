@@ -1,0 +1,20 @@
+{
+  "name": "colleated-calls",
+  "version": "1.0.0",
+  "description": "Collected function for call him in one place ",
+  "main": "CollectedCalls.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eagle7410/collected-calls"
+  },
+  "author": "Igor Stcherbina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eagle7410/collected-calls/issues"
+  },
+  "homepage": "https://github.com/eagle7410/collected-calls#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-jsdoc-to-markdown": "^2.0.0"
+  }
+}

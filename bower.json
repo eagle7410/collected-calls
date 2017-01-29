@@ -1,0 +1,22 @@
+{
+  "name": "colleated-calls",
+  "homepage": "https://github.com/eagle7410/collected-calls",
+  "authors": [
+    "Igor Stcherbina"
+  ],
+  "description": "Collected function for call him in one place",
+  "main": "CollectedCalls.js",
+  "keywords": [
+    "collected function",
+    "calls function"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eagle7410/collected-calls"
+  },
+  "bugs": {
+    "url": "https://github.com/eagle7410/collected-calls/issues"
+  }
+}
